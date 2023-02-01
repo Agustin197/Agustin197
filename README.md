@@ -1,12 +1,18 @@
-### <div align="center">I'm Agustin, a Full-Stack Web Developer 👨‍💻</div>  
+# <div align="center">Hola, Bienvenidos! 👋</div>  
   
 
-- 🔭 I’m currently working on [LaRuinaTV ](https://github.com/Agustin197/LaRuinaTv-Api)  
+👨‍💻 Mi nombre es Agustín soy Full Stack Web Developer
+  
   
 
-- 🌱 I’m currently learning Reactjs and JavaScript   
+💪Mi camino como desarrollador empezó hace mas de un año en la que de manera autodidacta empece a adentrarme en el mundo IT, encontrando en el un desafió constante el cual disfruto afrontar día a día.   
   
 
+🔭 Actualmente me encuentro trabajando en [LaRuinaTV ](https://github.com/Agustin197/LaRuinaTv-Api)
+  
+  
+
+🌱 En este momento estoy aprendiendo Reactjs   
   
 
 <br/>  
